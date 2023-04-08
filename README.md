@@ -19,3 +19,7 @@ cmake -DCMAKE_BUILD_TYPE=Release ..
   -b 16m \ # (block size for transposed bases, default = 32m)
   -c 64m   #(block size for key-value pairs, default = 64m)
 ```
+
+## Attributions:
+
+* https://github.com/attractivechaos/klib
